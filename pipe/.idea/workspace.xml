@@ -6,6 +6,9 @@
     <ignored path=".idea/workspace.xml" />
     <file path="/data.txt" changelist="bc06909a-4a25-4c7d-ac8f-b6c88978931e" time="1372390286041" ignored="false" />
     <file path="/app-client-gzip.js" changelist="bc06909a-4a25-4c7d-ac8f-b6c88978931e" time="1372390910768" ignored="false" />
+    <file path="/Dummy.txt" changelist="bc06909a-4a25-4c7d-ac8f-b6c88978931e" time="1372392726526" ignored="false" />
+    <file path="/app-readable-stream.js" changelist="bc06909a-4a25-4c7d-ac8f-b6c88978931e" time="1372393175973" ignored="false" />
+    <file path="/request-with-pipe.js" changelist="bc06909a-4a25-4c7d-ac8f-b6c88978931e" time="1372395238847" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +31,7 @@
       <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="195" selection-end="195" vertical-scroll-proportion="0.0">
+            <state line="4" column="10" selection-start="116" selection-end="215" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -37,7 +40,7 @@
       <file leaf-file-name="app-client-gzip.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app-client-gzip.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="12" selection-start="747" selection-end="747" vertical-scroll-proportion="0.0">
+            <state line="6" column="0" selection-start="443" selection-end="791" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -45,10 +48,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app-readable-stream.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="app-readable-stream.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app-readable-stream.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="68" selection-start="133" selection-end="133" vertical-scroll-proportion="0.060080107">
+            <state line="0" column="31" selection-start="0" selection-end="43" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="request-with-pipe.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/request-with-pipe.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="47" selection-start="47" selection-end="47" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
@@ -68,6 +89,7 @@
         <option value="$PROJECT_DIR$/data.txt" />
         <option value="$PROJECT_DIR$/app-client-gzip.js" />
         <option value="$PROJECT_DIR$/app-readable-stream.js" />
+        <option value="$PROJECT_DIR$/request-with-pipe.js" />
       </list>
     </option>
   </component>
@@ -129,7 +151,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../NorthFestival/sweetSpot" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
   </component>
@@ -228,13 +250,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="195" selection-end="195" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1" column="8" selection-start="13" selection-end="13" vertical-scroll-proportion="0.020380436">
@@ -242,9 +257,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="10" selection-start="116" selection-end="215" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app-client-gzip.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="12" selection-start="747" selection-end="747" vertical-scroll-proportion="0.0">
+        <state line="6" column="0" selection-start="443" selection-end="791" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -253,7 +282,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app-readable-stream.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="68" selection-start="133" selection-end="133" vertical-scroll-proportion="0.060080107">
+        <state line="0" column="31" selection-start="0" selection-end="43" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/request-with-pipe.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="47" selection-start="47" selection-end="47" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>

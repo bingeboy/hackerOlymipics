@@ -10,7 +10,8 @@ var oppressor = require('/usr/local/share/npm/lib/node_modules/oppressor');
 
 var server = http.createServer(function (req, res) {
     var stream = fs.createReadStream(__dirname + '/data.txt');
-    stream.pipe(res);
+    stream.pipe(oppressor(req)).pipe(res);
 });
-server.listen(8001);
-console.log('server.listen(8001)');
+server.listen(8000);
+
+console.log('server.listen(8000)')
